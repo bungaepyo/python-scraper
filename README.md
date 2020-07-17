@@ -1,4 +1,3 @@
-# python_scraper
 # Python Web Scraping Tool 
 ```
 This is a project that builds a python web scraper.
